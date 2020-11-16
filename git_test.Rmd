@@ -22,6 +22,10 @@ Adding one more line.
 
 Adding another line.
 
-Additional edits. 
-
 Making changes
+
+Added one more change in case you want to test :)
+
+git add 
+
+git commit -m
