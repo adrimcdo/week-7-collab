@@ -16,4 +16,6 @@ This is much easier than I thought it would be haha :)
 
 It is! I really like the ease of collaboration with R. I primarily used Matlab before, but I think this class has converted me to R lol
 
-I didn't know what to do next so I fixed the typo and I guess I'll just push again. 
+I didn't know what to do next so I fixed the typo and I guess I'll just push again.
+
+Adding one more line.
