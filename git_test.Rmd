@@ -13,3 +13,5 @@ Hi James!
 Hi Adriane!
 
 This is much easier than I thought it would be haha :)
+
+It is! I really like the ease of collaborative with R. I primarily used Matlab before, but I think this class has converted me to R lol
