@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi James!
 Hi Adriane!
+
+This is much easier than I thought it would be haha :)
